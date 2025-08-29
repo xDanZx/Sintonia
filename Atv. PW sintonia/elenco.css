@@ -4,7 +4,7 @@
   box-sizing: border-box;
   background-color: rgb(43, 43, 43);
 }
-/*Cabecario*/
+
 nav {
   display: flex;
   background-color: white;
@@ -13,6 +13,8 @@ nav {
   align-items: center;
   justify-content: center;
 }
+
+/*mudanças*/
 
 .logo {
   width: 200px;
@@ -23,7 +25,6 @@ nav {
   height: 100%;
 }
 
-/*corpo*/
 #container {
   color: #fff;
   margin-top: 20px;
